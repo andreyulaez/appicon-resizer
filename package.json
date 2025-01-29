@@ -1,0 +1,18 @@
+{
+  "name": "appicon-resizer-cli",
+  "version": "1.0.0",
+  "bin": {
+    "appicon-resizer": "appicon-resizer.js"
+  },
+  "main": "appicon-resizer.js",
+  "scripts": {
+    "start": "node appicon-resizer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
